@@ -1,0 +1,25 @@
+Date: 2026-01-01
+Time: 20:16
+Day: 001 / 365
+Mood: 9/10
+Energy: Medium
+
+Summary:
+It was a good day, not much happened, just trying to improve
+
+What happened:
+- Coded 2 hours (Typescript practice, coding projects)
+- Did home training 
+- Stayed offline more than usual
+- Read some book
+- Drawed an eye and also tried to draw a face card (tho it was so bad :| )
+
+Thoughts:
+At the end of the day everything would just be fun, even though things went bad at the begining of the day.
+
+Evidence:
+Physical item: Yes
+Git commit: Yes
+
+Tomorrow:
+Show up again. Nothing more (prob).
