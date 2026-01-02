@@ -1,0 +1,25 @@
+Date: 2026-01-02
+Time: 21:36
+Day: 002 / 365
+Mood: 6/10
+Energy: Medium
+
+Summary:
+It was a half-assed day, completed nothing fully 
+
+What happened:
+- Coded 2 hours (JS practice, coding projects)
+- Did home training (half-assed) 
+- Went to work
+- Read some book
+- Drawed an eye and no more
+
+Thoughts:
+What a bad day, couldn't do more
+
+Evidence:
+Physical item: Yes
+Git commit: Yes
+
+Tomorrow:
+Show up again. Nothing more (prob).
