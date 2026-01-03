@@ -1,0 +1,23 @@
+Date: 2026-01-03
+Time: 20:47
+Day: 003 / 365
+Mood: 8/10
+Energy: Great
+
+Summary:
+It was a quite good day,  got to question my life again
+
+What happened:
+- Coded more than 3 hours (JS practice, coding projects, typescript learning)
+- Did home training (Some calisthenics) 
+- Went to work
+
+Thoughts:
+I though about 1365 project and actually making my own documenting like that. (do not have a desision yet tho) 
+
+Evidence:
+Physical item: Yes
+Git commit: Yes
+
+Tomorrow:
+Show up again. Nothing more (prob).
